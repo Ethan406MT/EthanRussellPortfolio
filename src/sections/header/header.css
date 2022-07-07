@@ -1,9 +1,20 @@
 .Header {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+
    
 
 }
+.range {
+    display: flex;
+    margin-top: -18rem;
+    
+    z-index: 9999;
+    height: auto;
+    
+   
+}
+
 .box {
     background-color: rgba(0, 0, 0, .6);
     display: flex;
@@ -25,9 +36,10 @@
     align-items: center;
 }
 
+
 .contentbox {
-    background-color: rgba(0, 0, 0, 0.65);
-    flex: .5;
+    background: linear-gradient(to right, #fff, transparent 80%);
+    flex: .8;
     display: block;
     height: 10rem;
     
