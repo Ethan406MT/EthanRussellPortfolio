@@ -1,0 +1,13 @@
+.aboutbody {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 5rem;
+    
+    flex: .5;
+}
+
+.textcontainer h1 {
+    font-weight: 800;
+    
+}

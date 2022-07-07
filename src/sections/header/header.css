@@ -1,0 +1,45 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.box {
+    background-color: rgba(0, 0, 0, .6);
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    height: auto;
+    align-items: center;
+
+    
+}
+.Headerimg {
+    background-image: url("../../assets/header2.jpg");
+    height: 50rem;
+    width: auto;
+    flex: 1;
+    display: flex;
+    padding-left: 5%;
+    justify-content: left;
+    align-items: center;
+}
+
+.contentbox {
+    background-color: rgba(0, 0, 0, 0.65);
+    flex: .5;
+    display: block;
+    height: 10rem;
+    
+    border-top-right-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+    
+}
+
+.Ethan {
+    height: 20rem;
+    width: auto;
+    border-radius: 5%;    
+}
+
+
