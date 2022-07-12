@@ -7,8 +7,9 @@ import range from "../../assets/range.png"
 const Header = () => {
     return (
         <section className="Header">
-            <div className="box">
+        
         <div className="Headerimg">
+        <div className="box">
             <img className="Ethan" src= {ethan}/>
             <div className="contentbox">
              <h1> Ethan Russell</h1>
@@ -17,7 +18,7 @@ const Header = () => {
         </div>
         
         </div>
-        <img className="range" src={range} />
+        
         </section>
     )
 

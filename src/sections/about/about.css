@@ -3,11 +3,31 @@
     justify-content: space-between;
     align-content: center;
     padding: 5rem;
+    background-image: url("../../assets/Fas2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
     
-    flex: .5;
+    
+}
+.textcontainer{
+    flex: .50;
+    
+}
+.textcontainer p {
+    color: rgb(255, 255, 255);
+    display: flex;
+    
 }
 
 .textcontainer h1 {
     font-weight: 800;
+    color: rgb(255, 255, 255);
     
+}
+
+.aimg {
+    border-radius: 10%;
+   
+
 }
