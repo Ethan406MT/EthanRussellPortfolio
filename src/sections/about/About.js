@@ -1,7 +1,7 @@
 import "./about.css"
 import photo1 from  "../../assets/hatchphoto.png"
 
-
+//revise about me add job history and fix grammar
 const About = () => {
     return (
         <section className="aboutbody">
@@ -17,8 +17,7 @@ const About = () => {
             </div>
             <img className="aimg" src={photo1}/>
         </section>
-    )
-
-} 
+    );
+};
 
 export default About;

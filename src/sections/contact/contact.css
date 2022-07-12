@@ -1,0 +1,9 @@
+.Contact {
+    height: 20rem;
+    background-color: #fff;
+    background-image: url("../../assets/headerimg.jpg");
+    background-position: bottom right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex: 1;
+}
