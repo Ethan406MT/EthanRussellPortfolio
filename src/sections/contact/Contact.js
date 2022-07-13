@@ -8,9 +8,7 @@ import "./contact.css"
 export default function Contact()  {
     return (
         <section className="Contact">
-            <div>
-                <h1> Contact Form </h1>
-            </div>
+                <h1 className="contacttitle"> Contact Form </h1>
         </section>
 
     )

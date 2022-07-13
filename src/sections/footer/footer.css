@@ -1,0 +1,7 @@
+.Footer {
+    display: flex;
+    height: 6rem;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 5%;
+}
