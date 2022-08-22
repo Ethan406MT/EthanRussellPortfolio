@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EthanRussellPortfolio/static/css/main.0918f597.css",
+    "main.js": "/EthanRussellPortfolio/static/js/main.e77eaff2.js",
+    "static/js/787.39c0c70e.chunk.js": "/EthanRussellPortfolio/static/js/787.39c0c70e.chunk.js",
+    "static/media/headerimg.jpg": "/EthanRussellPortfolio/static/media/headerimg.bb2e09d2928fdc623cb8.jpg",
+    "static/media/Fas2.png": "/EthanRussellPortfolio/static/media/Fas2.8583b4fcdc5167c8dd5f.png",
+    "static/media/header2.jpg": "/EthanRussellPortfolio/static/media/header2.aa5f20f14f124a7cba35.jpg",
+    "static/media/hatchphoto.png": "/EthanRussellPortfolio/static/media/hatchphoto.99884378718069bb1efe.png",
+    "static/media/Ethan.webp": "/EthanRussellPortfolio/static/media/Ethan.2dc816060bd940274b7d.webp",
+    "static/media/GitHub-Emblem.png": "/EthanRussellPortfolio/static/media/GitHub-Emblem.1b6bd0e4b6626baba753.png",
+    "static/media/background.jpg": "/EthanRussellPortfolio/static/media/background.67cb8ea2150ab2903ded.jpg",
+    "index.html": "/EthanRussellPortfolio/index.html",
+    "main.0918f597.css.map": "/EthanRussellPortfolio/static/css/main.0918f597.css.map",
+    "main.e77eaff2.js.map": "/EthanRussellPortfolio/static/js/main.e77eaff2.js.map",
+    "787.39c0c70e.chunk.js.map": "/EthanRussellPortfolio/static/js/787.39c0c70e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0918f597.css",
+    "static/js/main.e77eaff2.js"
+  ]
+}
