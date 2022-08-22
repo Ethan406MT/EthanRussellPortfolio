@@ -1,13 +1,46 @@
+.contactsection{
+    flex: 1;
+    display: flex;
+    background-color: rgba(75, 75, 75, 0.473);
+    height: 20rem;
+    justify-content: center;
+}
+
 .Contact {
     height: 20rem;
+    display: flex;
     background-color: #fff;
     background-image: url("../../assets/headerimg.jpg");
     background-position: bottom right;
     background-size: cover;
     background-repeat: no-repeat;
     flex: 1;
+    justify-content: center;
 }
-
 .contacttitle {
     margin: 0;
+}
+
+
+.contactform {
+    background-color: white;
+    align-self: center;
+    width: 50rem;
+    padding: 1rem;
+    border-radius: 1%;
+}
+.contactnamebox {
+    background-color: #000;
+    width: auto;
+}
+
+.contactemailbox {
+    background-color: #000;
+    width: auto;
+}
+
+.contactdetailsbox {
+    background-color: #000;
+    height: 8rem;
+    
 }

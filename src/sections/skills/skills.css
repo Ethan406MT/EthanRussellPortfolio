@@ -1,0 +1,37 @@
+
+
+.skills {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    padding: 7%;
+}
+
+.skills-header {
+    margin-left: 10%;
+    
+}
+
+.frontendbox {
+    display: flex;
+    flex-direction: column;
+    flex: .5;
+}
+
+.backendbox{
+    display: flex;
+    flex: .5;
+    flex-direction: column;
+}
+
+
+.skillbox {
+    background-color: rgba(0, 0, 0, 0.155);
+    margin: 1px;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 6px;
+    width: 20rem;
+}

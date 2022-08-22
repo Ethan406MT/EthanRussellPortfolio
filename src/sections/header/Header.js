@@ -1,6 +1,6 @@
 import React from "react"
 import "./header.css"
-import ethan from "../../assets/ethan.png"
+import ethan from "../../assets/Ethan.webp"
 import range from "../../assets/range.png"
 
 
@@ -13,7 +13,7 @@ const Header = () => {
             <img className="Ethan" src= {ethan}/>
             <div className="contentbox">
              <h1> Ethan Russell</h1>
-             <h2> Graphic Designer | Web Developer</h2>            
+             <h2> Software Developer</h2>            
         </div>
         </div>
         

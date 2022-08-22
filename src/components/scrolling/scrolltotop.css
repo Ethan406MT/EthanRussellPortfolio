@@ -1,0 +1,31 @@
+
+.top-btn {
+    position: fixed;
+    bottom: 15px;
+    right: 20px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 1px solid #333;
+    background-color: rgba(255, 255, 255, 0.394);
+    color: rgba(0, 0, 0, 0.382);
+    cursor: pointer;
+}
+
+
+
+    
+@keyframes topani {
+
+  60% {margin-bottom: 10px;}
+  
+}
+
+
+.top-btn:hover { 
+    animation-name: topani;
+     animation-iteration-count: infinite;
+     animation-duration: 1s;
+     
+    
+}

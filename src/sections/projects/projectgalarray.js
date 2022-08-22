@@ -1,8 +1,0 @@
-
-
-/*
-
-function projectgallery [
-    {img: }
-]
-*/
