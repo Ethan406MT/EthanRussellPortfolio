@@ -10,7 +10,7 @@ const SocialLinks = () => {
     
     return (
         <section className="navbar">
-            <h1> Social Media </h1>
+          
             <div className="navbartext"> 
                 
                 <a href={"https://www.linkedin.com/in/ethan-russell-564290240"}><uli><img src={linkdn} className="linkdn" /> </uli></a>

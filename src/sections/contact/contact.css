@@ -2,20 +2,21 @@
     flex: 1;
     display: flex;
     background-color: rgba(75, 75, 75, 0.473);
-    height: 20rem;
-    justify-content: center;
+    height: 40em;
+    justify-content: flex-start;
+    
 }
 
 .Contact {
-    height: 20rem;
+    height: auto;
     display: flex;
-    background-color: #fff;
+    background-color: #000;
     background-image: url("../../assets/headerimg.jpg");
-    background-position: bottom right;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     flex: 1;
-    justify-content: center;
+    
 }
 .contacttitle {
     margin: 0;
@@ -23,24 +24,28 @@
 
 
 .contactform {
+    display: flex;
+    flex-direction: column;
     background-color: white;
-    align-self: center;
-    width: 50rem;
+   
+    flex: .25;
     padding: 1rem;
-    border-radius: 1%;
+    
+    justify-content: center;
+    align-items: center;
 }
 .contactnamebox {
-    background-color: #000;
+    background-color: #fff;
     width: auto;
 }
 
 .contactemailbox {
-    background-color: #000;
+    background-color: #fff;
     width: auto;
 }
 
 .contactdetailsbox {
-    background-color: #000;
+    background-color: #fff;
     height: 8rem;
     
 }
